@@ -1,2 +1,2 @@
-# learning_reactJS
+# Learning ReactJS
 Learning of React JS
